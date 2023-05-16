@@ -18,7 +18,7 @@
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject",
-    "homepage": "https://github.com/MariiaPrtsl/clothingstore"
+    "homepage": "https://mariiaprtsl.github.io/clothingstore"
   },
   "eslintConfig": {
     "extends": [
