@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "https://github.com/MariiaPrtsl/clothingstore/static/css/main.cf6e543f.css",
-    "main.js": "https://github.com/MariiaPrtsl/clothingstore/static/js/main.f2d13164.js",
-    "static/media/bg_hero.svg": "https://github.com/MariiaPrtsl/clothingstore/static/media/bg_hero.8432c17319b39d7cb92b.svg",
-    "static/media/woman_hero.png": "https://github.com/MariiaPrtsl/clothingstore/static/media/woman_hero.19f7c154035ef1a04f50.png",
-    "index.html": "https://github.com/MariiaPrtsl/clothingstore/index.html",
-    "static/media/logo.svg": "https://github.com/MariiaPrtsl/clothingstore/static/media/logo.e8beae727ec062c7a6643fcd35efab63.svg",
-    "main.cf6e543f.css.map": "https://github.com/MariiaPrtsl/clothingstore/static/css/main.cf6e543f.css.map",
-    "main.f2d13164.js.map": "https://github.com/MariiaPrtsl/clothingstore/static/js/main.f2d13164.js.map"
+    "main.css": "https://mariiaprtsl.github.io/clothingstore/static/css/main.ca1338a8.css",
+    "main.js": "https://mariiaprtsl.github.io/clothingstore/static/js/main.f6a426a1.js",
+    "static/media/bg_hero.svg": "https://mariiaprtsl.github.io/clothingstore/static/media/bg_hero.8432c17319b39d7cb92b.svg",
+    "static/media/woman_hero.png": "https://mariiaprtsl.github.io/clothingstore/static/media/woman_hero.19f7c154035ef1a04f50.png",
+    "index.html": "https://mariiaprtsl.github.io/clothingstore/index.html",
+    "static/media/logo.svg": "https://mariiaprtsl.github.io/clothingstore/static/media/logo.e8beae727ec062c7a6643fcd35efab63.svg",
+    "main.ca1338a8.css.map": "https://mariiaprtsl.github.io/clothingstore/static/css/main.ca1338a8.css.map",
+    "main.f6a426a1.js.map": "https://mariiaprtsl.github.io/clothingstore/static/js/main.f6a426a1.js.map"
   },
   "entrypoints": [
-    "static/css/main.cf6e543f.css",
-    "static/js/main.f2d13164.js"
+    "static/css/main.ca1338a8.css",
+    "static/js/main.f6a426a1.js"
   ]
 }
